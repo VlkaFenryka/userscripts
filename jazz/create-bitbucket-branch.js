@@ -2,7 +2,7 @@
 // @name       [Jazz] button: create bitbucket branch
 // @include    https://jazz.avm.de/ccm/web/projects/AVM-Entwicklung*
 // @version    1.0
-// @author     patrice.matzke
+// @author     https://github.com/VlkaFenryka
 // ==/UserScript==
 
 setTimeout(function() {

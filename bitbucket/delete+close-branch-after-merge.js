@@ -2,7 +2,7 @@
 // @name       [Bitbucket] delete/close branch after merge
 // @include    https://bitbucket.avm.de*
 // @version    1.1
-// @author     patrice.matzke
+// @author     https://github.com/VlkaFenryka
 // ==/UserScript==
 
 // delete branch when merge

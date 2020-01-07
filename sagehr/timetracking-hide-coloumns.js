@@ -2,7 +2,7 @@
 // @name       [SageHR] TimeTracking hide columns
 // @include    https://mp.avm.de/HRPortal/de-DE/Time/TimeTracking*
 // @version    1.0
-// @author     patrice.matzke
+// @author     https://github.com/VlkaFenryka
 // ==/UserScript==
 
 document.querySelector('[data-bind="value: columnOptions.DG"]').click();

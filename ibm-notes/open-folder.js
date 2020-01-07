@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         [IBM notes] folder opened
 // @version      1.0
-// @author       patrice.matzke
+// @author       https://github.com/VlkaFenryka
 // @include      https://mail-notes.avm.de/mail/pmatzke.nsf
 // ==/UserScript==
 

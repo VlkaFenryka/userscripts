@@ -3,7 +3,7 @@
 // @include    https://svn.thesisdigital.de/stash*
 // @require    https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
 // @version    1.0
-// @author     patrice.matzke
+// @author     https://github.com/VlkaFenryka
 // ==/UserScript==
 
 document.querySelector(".merge-pull-request").onclick = function() {

@@ -2,7 +2,7 @@
 // @name       [Outlook] email body font color in dark mode
 // @include    https://outlook.live.com/mail/*
 // @version    1.0
-// @author     patrice.matzke
+// @author     https://github.com/VlkaFenryka
 // ==/UserScript==
 
 window.addEventListener("load", event => {
