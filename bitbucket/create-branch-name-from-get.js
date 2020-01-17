@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       [Bitbucket] create branch name from GET
 // @include    https://bitbucket.avm.de/plugins/servlet/create-branch*
-// @version    1.0
+// @version    1.0.0
 // @author     https://github.com/VlkaFenryka
 // ==/UserScript==
 

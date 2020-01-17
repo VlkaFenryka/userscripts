@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         [RB] jquery migrate for QA testing
-// @version      1
+// @version      1.0.0
 // @description  jquery migrate for clientside QA testing
 // @author       https://github.com/VlkaFenryka
 // @include      *realbest*

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       [SageHR] TimeTracking hide columns
 // @include    https://mp.avm.de/HRPortal/de-DE/Time/TimeTracking*
-// @version    1.0
+// @version    1.0.0
 // @author     https://github.com/VlkaFenryka
 // ==/UserScript==
 

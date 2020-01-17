@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       [ITAD] select all functionality
 // @include    https://isthereanydeal.com/waitlist/*
-// @version    1.0
+// @version    1.0.0
 // @author     https://github.com/VlkaFenryka
 // ==/UserScript==
 

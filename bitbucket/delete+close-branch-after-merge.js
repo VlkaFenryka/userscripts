@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       [Bitbucket] delete/close branch after merge
 // @include    https://bitbucket.avm.de*
-// @version    1.1
+// @version    1.1.0
 // @author     https://github.com/VlkaFenryka
 // ==/UserScript==
 

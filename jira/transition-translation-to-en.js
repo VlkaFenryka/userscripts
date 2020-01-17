@@ -2,7 +2,7 @@
 // @name       [JIRA] Transition translation to EN
 // @include    https://thesisdigital.atlassian.net*
 // @require    https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
-// @version    1
+// @version    1.0.0
 // @grant      GM_addStyle
 // ==/UserScript==
 

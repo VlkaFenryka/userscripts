@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       [Jazz] button: create bitbucket branch
 // @include    https://jazz.avm.de/ccm/web/projects/AVM-Entwicklung*
-// @version    1.0
+// @version    1.0.0
 // @author     https://github.com/VlkaFenryka
 // ==/UserScript==
 

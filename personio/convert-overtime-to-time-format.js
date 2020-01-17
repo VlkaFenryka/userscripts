@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         [Personio] convert overtime to time format
-// @version      1.0
+// @version      1.0.0
 // @description  transform decimal values to real times (60 based)
 // @author       https://github.com/VlkaFenryka
 // @include      https://entity.personio.de*
