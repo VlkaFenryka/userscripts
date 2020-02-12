@@ -27,7 +27,6 @@ setTimeout(function() {
   document
     .querySelector(".js-bitbucket-branch-create-button")
     .addEventListener("click", function(event) {
-      event.preventDefault();
       let repoValue = "";
       switch (true) {
         case document.querySelector(".js-checkbox-html").checked:
@@ -37,7 +36,6 @@ setTimeout(function() {
           repoValue = "node_modules";
           break;
       }
-
       this.href = this.href.replace(/repo=(\w+)/gm, `repo=${repoValue}`);
     });
 }, 2000);
