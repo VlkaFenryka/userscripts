@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       [Jazz] button: create bitbucket branch
 // @include    https://jazz.avm.de/ccm/web/projects/AVM-Entwicklung*
-// @version    1.0.0
+// @version    1.0.1
 // @author     https://github.com/VlkaFenryka
 // ==/UserScript==
 
@@ -16,6 +16,11 @@ setTimeout(function() {
     .replace(/\W+/g, "-");
   let issueID = document.querySelector("title").textContent.match(/\d+/g)[0];
   let el = document.createElement("a");
+  let inputs = `<input type="checkbox" id="checkbox-html" value="html" checked>
+                <label for="checkbox-html">HTML</label>
+                <br>
+                <input type="checkbox" id="checkbox-node-modules" value="node_modules">
+                <label for="checkbox-node-modules">node_modules</label></div>`;
 
   el.href =
     "https://bitbucket.avm.de/plugins/servlet/create-branch?issueid=" +
@@ -27,4 +32,5 @@ setTimeout(function() {
   el.innerHTML = "create bitbucket branch";
 
   insertAfter(document.querySelector(".TabArea a:last-of-type"), el);
+  document.querySelector(".TabArea").insertAdjacentHTML("beforeend", inputs);
 }, 1000);
