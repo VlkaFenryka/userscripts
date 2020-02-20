@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/VlkaFenryka/userscripts#readme",
   "devDependencies": {
-    "husky": "^4.2.1",
+    "husky": "^4.2.3",
     "lint-staged": "^10.0.3",
     "onchange": "^6.1.0",
     "prettier": "^1.19.1"
