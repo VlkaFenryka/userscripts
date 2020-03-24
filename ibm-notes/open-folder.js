@@ -19,7 +19,7 @@
     document
       .querySelector("#s_MainFrame")
       .contentWindow.document.querySelector(
-        "[data-in-outlineelem-id='OUTLINEELEM71']"
+        "[data-in-outlineelem-id='OUTLINEELEM67']"
       )
       .click();
     // open day at a glance panel
