@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         [IBM notes] folder opened
-// @version      1.0.1
+// @version      1.0.2
 // @author       https://github.com/VlkaFenryka
-// @include      https://mail-notes.avm.de/mail/pmatzke.nsf
+// @include      https://mail-notes.avm.de/mail/pmatzke.nsf*
 // ==/UserScript==
 
 (function() {
