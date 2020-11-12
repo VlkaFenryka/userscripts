@@ -5,7 +5,9 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "prettier-watch": "onchange '**/*.js' -- prettier --write {{changed}}"
+    "prettier-watch": "onchange '**/*.js' -- prettier --write {{changed}}",
+    "update": "npm update",
+    "audit-fix": "npm audit fix"
   },
   "repository": {
     "type": "git",
